@@ -22,11 +22,3 @@ For instance, in a series of measurements, a pattern of the size of the error co
 ### Systematic Error
 
 In contrast, systematicall error has an observed pattern that can be measured, and the cause of this pattern can be analized and solved.
-
-## Bias-Variance Trade-Off
-
-After solving the systematicall errors of data, 
-
-### Bias
-
-### Variance
