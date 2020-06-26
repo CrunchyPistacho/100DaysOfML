@@ -22,3 +22,5 @@ For instance, in a series of measurements, a pattern of the size of the error co
 ### Systematic Error
 
 In contrast, systematicall error has an observed pattern that can be measured, and the cause of this pattern can be analized and solved.
+
+An example of systematic error can be measures coming from a not balanced temperature sensor always have 5 degrees more than the real value.
