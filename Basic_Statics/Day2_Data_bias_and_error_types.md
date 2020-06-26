@@ -1,6 +1,6 @@
 # Basic Statistics for machine learning 2: Bias and Error in Data
 
-Every dataset is distinct, cames from distinct sources and gets the data from distinct services, but all data sources has errors and we need to know what thisones suppos to our analysis and statistical models.
+Every dataset is distinct, data cames from distinct sources and services, but all data sources have errors and we need to know what this ones suppose to our analysis and statistical models.
 
 ## Random and Systematica error 
 
@@ -17,7 +17,7 @@ There're some requirements to classify this error, let's explain them:
 3. The error component of one measurement is unrelated to the error component of any other measurement.
 
 
-For instance, in a series of measurements, a pattern of the size of the error component should not be increasing over time so that later measurements have larger errors, or errors in a consistent direction, relative to earlier measurements.
+For instance, in a series of measurements, a pattern of the size of the error component should not be increasing over time, so later measurements have larger errors, or errors in a consistent direction, relative to earlier measurements.
 
 ### Systematic Error
 
