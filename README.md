@@ -14,3 +14,6 @@ Posted at https://medium.com/@crunchyML/data-types-basic-statistics-for-machine-
 ## Day 2, Random and Systematica error
 
 Posted at https://medium.com/@crunchyML/random-and-systematica-error-f6206169894f
+
+## Day 3, Basic Probability
+
