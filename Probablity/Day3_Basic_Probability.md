@@ -30,34 +30,34 @@ Example of events are:
 
 The most common way to visualize this events is using Venn Diagrams in which a rectangle represents the sample space and circles represents particular events.
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/1000px-Venn0001.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/320px-Venn0001.svg.png)
 
 ### Union
 
 The union of events, written as <img src="https://render.githubusercontent.com/render/math?math=%24E%20%5Cunion%20F%24">, means either E or F, in the Venn diagram, it's displayed as any point in any of the particular events(circles).
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/1000px-Venn0111.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/320px-Venn0111.svg.png)
 
 ### Intersection
 
 The intersection of events, written as <img src="https://render.githubusercontent.com/render/math?math=%24E%20%5Ccap%20F%24">, means E and F, in the Venn diagram, it's displayed as any point where both circles overlap.  
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/1000px-Venn0001.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/320px-Venn0001.svg.png)
 
 ### Disjuntive union
 
 Also known as symetric difference, written as <img src="https://render.githubusercontent.com/render/math?math=%24E%20%5Ctriangle%0A%20F%24">, means E or F, but not both,  in the Venn diagram, it's displayed as any point of the circles except where both circles overlap.  
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/1024px-Venn0110.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/320px-Venn0110.svg.png)
 
 ### Absolute Complement
 
 Set of elements not in E, written as <img src="https://render.githubusercontent.com/render/math?math=%24U%20%5Csetminus%0A%20F%24">, mean not E,  in the Venn diagram, it's displayed as any point of the space except in E.  
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/1024px-Venn1010.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/320px-Venn1010.svg.png)
 
 ### Relative Complement
 
 Set of elements in F and not in E, written as <img src="https://render.githubusercontent.com/render/math?math=%24E%20%5Csetminus%0A%20F%24">, mean not E,  in the Venn diagram, it's displayed as any point of E except the intersection with F.  
 
-![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Venn0010.svg/1024px-Venn0010.svg.png)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Venn0010.svg/320px-Venn0010.svg.png)
