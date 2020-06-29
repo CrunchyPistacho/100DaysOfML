@@ -30,7 +30,7 @@ Example of events are:
 
 The most common way to visualize this events is using Venn Diagrams in which a rectangle represents the sample space and circles represents particular events.
 
-![Image of DT](https://github.com/CrunchyPistacho/100DaysOfML/blob/master/Probablity/images/Day3_venn1.svg)
+![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/180px-Venn0001.svg.png)
 
 ### Union
 
