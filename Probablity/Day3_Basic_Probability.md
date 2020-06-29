@@ -12,7 +12,7 @@ Trial means one iteration and experiment is when we do multiple trials.
 
 ### Sample Space
 
-Defines as $S$, the sample space is the set of all possible outcomes of a trial. In the example of rolling a dice, if we use a 6-faced dice, the sample space is $S = \lbrace 1,2,3,4,5,6 \rbrace$.
+Defines as $S$, the sample space is the set of all possible outcomes of a trial. In the example of rolling a dice, if we use a 6-faced dice, the sample space is <img src="https://render.githubusercontent.com/render/math?math=%24S%20%3D%20%5Clbrace%201%2C2%2C3%2C4%2C5%2C6%20%5Crbrace%24">.
 
 If the experiment has more than one iteration, as throwing a coin 2 times in a row, the sample space is created by all possible combilations of both throws : \lbrace (head,head), (head,tail), (tail, tail), (tail,head) \rbrace.
 
