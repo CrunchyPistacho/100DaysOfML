@@ -85,6 +85,13 @@ It allows us to calculate the conditional probability without knowing the joint 
 
 <img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%7C%20F)%20%3D%20%5Cdfrac%7BP(F%20%7C%20E)%20%20P(E)%7D%7BP(F)%7D%24">
 
+In this formula:
+* **P(E|F)** is known as the **Posterior**, being the probability of **E** being True if **F** is True.
+* **P(F|E)** is known as the **Likehold**, being the probability of **F** being True if **E** is True.
+* **P(E)** is known as the **Prior**, being the probability of **E** being True.
+* **P(F)** is the probability of **F** being True.
+
+
 ## Conclusion
 
 Bayes Theorem will be very usefull for a lot of machine learning models and will enable us to infer our results to new data. Make sure that understand thisone, it's very important for Data Science.
