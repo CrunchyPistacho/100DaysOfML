@@ -56,6 +56,10 @@ One of the most important elements of statistics for data science, it gives us t
 
 The probability of an event(**E**) given anotherone(**F**) or conditional probability is expressed as **P(E|F)**
 
+The conditional probability can be calculated as:
+
+<img src="https://render.githubusercontent.com/render/math?math=%24P(E%7CF)%3D%5Cdfrac%7BP(E%20%5Ccap%20F)%7D%7BP(F)%7D%24">
+
 ### Multiple Events Probability
 
 Union of mutually excusive events:
@@ -68,18 +72,18 @@ Union of not mutually exclusive events:
 
 Intersection of independent events:
 
-<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%5Ccap%20F)%20%3D%20P(E)%20x%20P(F)%24">
+<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%5Ccap%20F)%20%3D%20P(E)%20%20P(F)%24">
 
 Intersection of non independent events:
 
-<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%5Ccap%20F)%20%3D%20P(E)%20x%20P(F%7CE)%24">
+<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%5Ccap%20F)%20%3D%20P(E)%20%20P(F%7CE)%24">
 
 
 ## Bayes Theorem
 
 It allows us to calculate the conditional probability without knowing the joint probability.
 
-<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%7C%20F)%20%3D%20%5Cdfrac%7BP(F%20%7C%20E)%20*%20P(E)%7D%7BP(F)%7D%24">
+<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%7C%20F)%20%3D%20%5Cdfrac%7BP(F%20%7C%20E)%20%20P(E)%7D%7BP(F)%7D%24">
 
 ## Conclusion
 
