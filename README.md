@@ -17,5 +17,8 @@ Posted at https://medium.com/@crunchyML/random-and-systematica-error-f6206169894
 
 ## Day 3, Basic Probability
 
-POsted at https://medium.com/@crunchyML/probability-for-machine-learning-basic-probability-972be946ba53
+Posted at https://medium.com/@crunchyML/probability-for-machine-learning-basic-probability-972be946ba53
 
+## Day 4, From Probability to Bayes Theorem
+
+POsted at https://medium.com/@crunchyML/from-probability-to-bayes-theorem-6a07f06f91b8
