@@ -79,8 +79,7 @@ Intersection of non independent events:
 
 It allows us to calculate the conditional probability without knowing the joint probability.
 
-<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%7C%20F)%20%3D%20%5Cdfrac%7B%24P(F%20%7C%20E)%20*%20P(E)%7D%7BP(F))%7D%24">
-
+<img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%7C%20F)%20%3D%20%5Cdfrac%7BP(F%20%7C%20E)%20*%20P(E)%7D%7BP(F))%7D%24">
 
 ## Conclusion
 
