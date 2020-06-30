@@ -1,6 +1,7 @@
 # Probability for machine learning 1: Basic Probability
 
 Probability is one of the most important fields to learn if one want to understant machine learning and the insights of how it works. In this publication we will introduce the basic definitions.
+A typical usefull definition of **probability** for statistics is that probability tells us how often something is likely to occir when an experiment is repeated.
 
 ## Basic Definitions
 
