@@ -1,6 +1,6 @@
 # Probability for machine learning 2: Conditional Probability and Bayes Theorem
 
-Bayes Theoreme is one of the most importants theorems to data science, it describes how to update the probabilities of hypothesis when an evidence is given. It allows us to estimate the probability of the next event given the actual event.
+Bayes Theorem is one of the most importants theorems to data science, it describes how to update the probabilities of hypothesis when an evidence is given. It allows us to estimate the probability of the next event given the actual event.
 
 To understand it, we need to introduce some probability terms.
 
@@ -40,7 +40,7 @@ Example: How to calculate the number of **combinations** of size 3  that can be 
 
 ## Probability
 
-Probability is always defined between 0 and 1, the probabiloty of the sample space is always 1 and of the null space always 0. For a brief introduction to probability there's a post here:
+Probability is always defined between 0 and 1, the probability of the sample space is always 1 and of the null space always 0. For a brief introduction to probability there's a post here:
 
 https://medium.com/@crunchyML/probability-for-machine-learning-basic-probability-972be946ba53
 
@@ -61,6 +61,8 @@ The conditional probability can be calculated as:
 <img src="https://render.githubusercontent.com/render/math?math=%24P(E%7CF)%3D%5Cdfrac%7BP(E%20%5Ccap%20F)%7D%7BP(F)%7D%24">
 
 ### Multiple Events Probability
+
+Two events are mutually exclusive if they can't both occur at the same time.
 
 Union of mutually excusive events:
 
