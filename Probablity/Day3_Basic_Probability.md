@@ -52,7 +52,7 @@ Also known as symetric difference, written as <img src="https://render.githubuse
 
 #### Absolute Complement
 
-Set of elements not in E, written as <img src="https://render.githubusercontent.com/render/math?math=%24U%20%5Csetminus%0A%20F%24">, mean not E,  in the Venn diagram, it's displayed as any point of the space except in E.  
+Set of elements not in E, written as <img src="https://render.githubusercontent.com/render/math?math=%24U%20%5Csetminus%0A%20E%24">, mean not E,  in the Venn diagram, it's displayed as any point of the space except in E.  
 
 ![Image of DT](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/320px-Venn1010.svg.png)
 
