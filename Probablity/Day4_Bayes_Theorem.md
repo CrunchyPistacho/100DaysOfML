@@ -62,6 +62,8 @@ The conditional probability can be calculated as:
 
 ### Multiple Events Probability
 
+Two events are mutually exclusive if they can't both occur at the same time.
+
 Union of mutually excusive events:
 
 <img src="https://render.githubusercontent.com/render/math?math=%24P(E%20%5Ccup%20F)%20%3D%20P(E)%20%2B%20P(F)%24">
