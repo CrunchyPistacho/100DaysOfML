@@ -20,7 +20,18 @@ When we express the mean of a variable, for example x or age, we use the <img sr
 
 The **Mean** as central tendency can be biased, for example, if the data contains 2 elements with a big difference from the rest, this elements will influence the distribution of the data and the result will tend to be closer to this **outliers**. Let's explain it with an example:
 
-<img src="https://render.githubusercontent.com/render/math?math=Case%201%2C%20%24x%20%3D%20(-2%2C2%2C3%2C5)%20%5Crightarrow%20%5Ccoverline%7Bx%7D%20%3D%20%5Cfrac%7B8%7D%7B4%7D%20%3D%202%24%20%0A%5Cnewline%0ACase%202%2C%20%24x%20%3D%20(-50%2C2%2C3%2C5)%20%5Crightarrow%20%5Ccoverline%7Bx%7D%20%3D%20%5Cfrac%7B-40%7D%7B4%7D%20%3D%20-10%24%20">
+* Case 1: Mean is a good central tendency metric.
+
+<img src="https://render.githubusercontent.com/render/math?math=Case%201%3A%20%24%20x%20%3D%20(-2%2C2%2C3%2C5)%20%5Crightarrow%20%5Coverline%7Bx%7D%20%3D%20%5Cfrac%7B8%7D%7B4%7D%20%3D%202%24">
+
+* Case 2: Mean is not a good central tendency metric.
+
+<img src="https://render.githubusercontent.com/render/math?math=%24%20x%20%3D%20(-50%2C2%2C3%2C5)%20%5Crightarrow%20%5Coverline%7Bx%7D%20%3D%20%5Cfrac%7B-40%7D%7B4%7D%20%3D%20-10%24">
+
+
+One way to solve this issue, used by **Winsorized mean**, also known as **trimmed mean** is to drop a percentage of the extreme values, in the last example the mean will be calculated dropping the -50 value.
+
+
 
 
 
