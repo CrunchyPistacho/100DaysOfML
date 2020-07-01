@@ -22,7 +22,7 @@ The **Mean** as central tendency can be biased, for example, if the data contain
 
 * Case 1: Mean is a good central tendency metric.
 
-<img src="https://render.githubusercontent.com/render/math?math=Case%201%3A%20%24%20x%20%3D%20(-2%2C2%2C3%2C5)%20%5Crightarrow%20%5Coverline%7Bx%7D%20%3D%20%5Cfrac%7B8%7D%7B4%7D%20%3D%202%24">
+<img src="https://render.githubusercontent.com/render/math?math=%24Case%201%2C%20x%20%3D%20(-2%2C2%2C3%2C5)%20%5Crightarrow%20%5Coverline%7Bx%7D%20%3D%20%5Cfrac%7B8%7D%7B4%7D%20%3D%202%24">
 
 * Case 2: Mean is not a good central tendency metric.
 
