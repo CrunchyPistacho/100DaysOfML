@@ -21,4 +21,8 @@ Posted at https://medium.com/@crunchyML/probability-for-machine-learning-basic-p
 
 ## Day 4, From Probability to Bayes Theorem
 
-POsted at https://medium.com/@crunchyML/from-probability-to-bayes-theorem-6a07f06f91b8
+Posted at https://medium.com/@crunchyML/from-probability-to-bayes-theorem-6a07f06f91b8
+
+## Day 5, Statistics For Machine Learning: Measures of Central Tendency
+
+Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures-of-central-tendency-2b333029249f
