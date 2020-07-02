@@ -31,7 +31,7 @@ An example using **__x = (-3,-1,3,7,10,15, 17)__** as data and calculating the *
 
 ![Image of DT](https://github.com/CrunchyPistacho/100DaysOfML/blob/master/Basic_Statics/images/Percentil%201.PNG)
 
-So the second value **__(-1)__**of the ordered list will be the 20th percentil.
+So the second value **(-1)** of the ordered list will be the 20th percentil.
 
 ### Interquartil Range (IQR)
 
