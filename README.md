@@ -26,3 +26,8 @@ Posted at https://medium.com/@crunchyML/from-probability-to-bayes-theorem-6a07f0
 ## Day 5, Statistics For Machine Learning: Measures of Central Tendency
 
 Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures-of-central-tendency-2b333029249f
+
+## Day 6, Statistics for machine learning: Measures of Dispersion
+
+Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures-of-dispersion-d3859aa52cfc
+
