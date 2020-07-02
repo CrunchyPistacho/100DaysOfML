@@ -27,7 +27,9 @@ A percentil is the value where a given percentage of observations falls, it's al
 
 To calculate the percentile, first order the data ascending and then apply this formula, the special brackets indicates that we have to take the first integer bigger than the result.
 
-An example using **__x = (-3,-1,3,7,10,15)__** as data and calculating the **20th** percentile:
+An example using **__x = (-3,-1,3,7,10,15, 17)__** as data and calculating the **20th** percentile:
+
+![Image of DT](https://github.com/CrunchyPistacho/100DaysOfML/blob/master/Basic_Statics/images/Percentil%201.PNG)
 
 
 
