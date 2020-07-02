@@ -23,7 +23,7 @@ For example, the range of **__(-4,-1,-3,8)__** is **__8 - (-4) = 12__** .
 
 ### Percentiles
 
-A percentil is the value where a given percentage of observations falls, it's always expressed as a numeric value between 0 and 100. For example, the **10th percentil** is the value that has a **__20%__** of the observations below him.
+A percentil is the value where a given percentage of observations falls, it's always expressed as a numeric value between 0 and 100. For example, the **10th percentil** is the value that has a **__10%__** of the observations below him.
 
 To calculate the percentile, first order the data ascending and then apply this formula, the special brackets indicates that we have to take the first integer bigger than the result.
 
