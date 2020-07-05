@@ -37,7 +37,7 @@ Empirical rules for any normal distribution are:
 * 95% of the data will fall within two standard deviations of the mean.
 * 99% of the data will fall within three standard deviations of the mean.
 
-![Image of DT](https://github.com/CrunchyPistacho/100DaysOfML/blob/master/Basic_Statics/images/Standart_deviation_diagram.PNG)
+![Image of DT](https://github.com/CrunchyPistacho/100DaysOfML/blob/master/Basic_Statics/images/Standard_deviation_diagram.png)
 (Image license here: https://creativecommons.org/licenses/by-sa/3.0/deed.en )
 
 Comparisons between single values agains the data are made using Z-scores, which express value of the score in terms of units of the standard deviation. This process is analogous to standarize the distribution. 
