@@ -31,3 +31,6 @@ Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures
 
 Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures-of-dispersion-d3859aa52cfc
 
+## Day 7, Inferential Statistics: Normal and Binomial Distributions
+
+Posted at https://medium.com/@crunchyML/inferential-statistics-probability-distributions-65b410ad5aef
