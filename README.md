@@ -34,3 +34,7 @@ Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures
 ## Day 7, Inferential Statistics: Normal and Binomial Distributions
 
 Posted at https://medium.com/@crunchyML/inferential-statistics-probability-distributions-65b410ad5aef
+
+## Day 8, Probability vs Non Probability Sampling
+
+Posted at https://medium.com/@crunchyML/probability-vs-nonprobability-sampling-5e0e93b43ac1
