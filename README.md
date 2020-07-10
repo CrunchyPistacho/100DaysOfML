@@ -38,3 +38,7 @@ Posted at https://medium.com/@crunchyML/inferential-statistics-probability-distr
 ## Day 8, Probability vs Non Probability Sampling
 
 Posted at https://medium.com/@crunchyML/probability-vs-nonprobability-sampling-5e0e93b43ac1
+
+## Day 9, Central Limit Theorem
+
+Posted at https://medium.com/@crunchyML/central-limit-theorem-5c7e7799f263
