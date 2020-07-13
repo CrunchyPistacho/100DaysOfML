@@ -42,3 +42,7 @@ Posted at https://medium.com/@crunchyML/probability-vs-nonprobability-sampling-5
 ## Day 9, Central Limit Theorem
 
 Posted at https://medium.com/@crunchyML/central-limit-theorem-5c7e7799f263
+
+## Day 10, Hypothesis testing
+
+Posted at https://medium.com/@crunchyML/hypothesis-testing-ec0defe3e1b7
