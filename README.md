@@ -46,3 +46,7 @@ Posted at https://medium.com/@crunchyML/central-limit-theorem-5c7e7799f263
 ## Day 10, Hypothesis testing
 
 Posted at https://medium.com/@crunchyML/hypothesis-testing-ec0defe3e1b7
+
+## Day 11, EDA on Categorical and Ordinal Data
+
+Posted at https://medium.com/@crunchyML/eda-on-categorical-and-ordinal-data-22f8a4407836
