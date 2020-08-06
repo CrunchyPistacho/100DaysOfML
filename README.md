@@ -50,3 +50,7 @@ Posted at https://medium.com/@crunchyML/hypothesis-testing-ec0defe3e1b7
 ## Day 11, EDA on Categorical and Ordinal Data
 
 Posted at https://medium.com/@crunchyML/eda-on-categorical-and-ordinal-data-22f8a4407836
+
+## Day 12, Pearson Correlation Coefficient
+
+Posted at https://t.co/O68t3XYVyN?amp=1
