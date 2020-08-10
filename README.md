@@ -54,3 +54,9 @@ Posted at https://medium.com/@crunchyML/eda-on-categorical-and-ordinal-data-22f8
 ## Day 12, Pearson Correlation Coefficient
 
 Posted at https://t.co/O68t3XYVyN?amp=1
+
+## Day 13, Introduction to systems of equations and vectors
+
+Posted at https://medium.com/@crunchyML/introduction-to-systems-of-equations-and-vectors-2dba1f1a67d8
+
+
