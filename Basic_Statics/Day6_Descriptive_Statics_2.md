@@ -89,7 +89,7 @@ CV is usually usefull when variables measure the same type of metric, for exampl
 
 ## Summary
 
-This post introduces some of the pillars of machine learning, the distribution of data gives data scientists the hability to infer the results of statisticals models to new real world data.
+This post introduces some of the pillars of machine learning, the distribution of data gives data scientists the ability to infer the results of statistical models to new real world data.
 
 
 
