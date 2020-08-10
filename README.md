@@ -34,3 +34,23 @@ Posted at https://medium.com/@crunchyML/statistics-for-machine-learning-measures
 ## Day 7, Inferential Statistics: Normal and Binomial Distributions
 
 Posted at https://medium.com/@crunchyML/inferential-statistics-probability-distributions-65b410ad5aef
+
+## Day 8, Probability vs Non Probability Sampling
+
+Posted at https://medium.com/@crunchyML/probability-vs-nonprobability-sampling-5e0e93b43ac1
+
+## Day 9, Central Limit Theorem
+
+Posted at https://medium.com/@crunchyML/central-limit-theorem-5c7e7799f263
+
+## Day 10, Hypothesis testing
+
+Posted at https://medium.com/@crunchyML/hypothesis-testing-ec0defe3e1b7
+
+## Day 11, EDA on Categorical and Ordinal Data
+
+Posted at https://medium.com/@crunchyML/eda-on-categorical-and-ordinal-data-22f8a4407836
+
+## Day 12, Pearson Correlation Coefficient
+
+Posted at https://t.co/O68t3XYVyN?amp=1
