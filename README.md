@@ -59,4 +59,8 @@ Posted at https://t.co/O68t3XYVyN?amp=1
 
 Posted at https://medium.com/@crunchyML/introduction-to-systems-of-equations-and-vectors-2dba1f1a67d8
 
+## Day 14, Matrix determinants
+
+Posted at https://medium.com/@crunchyML/matrix-determinants-6823bc94b0cf
+
 
