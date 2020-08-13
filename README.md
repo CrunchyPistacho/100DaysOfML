@@ -63,4 +63,9 @@ Posted at https://medium.com/@crunchyML/introduction-to-systems-of-equations-and
 
 Posted at https://medium.com/@crunchyML/matrix-determinants-6823bc94b0cf
 
+## Day 15, Matrix methods for solving systems of equations
+
+Posted at https://medium.com/@crunchyML/matrix-methods-for-solving-systems-of-equations-c2c9965d965f
+
+
 
