@@ -67,5 +67,9 @@ Posted at https://medium.com/@crunchyML/matrix-determinants-6823bc94b0cf
 
 Posted at https://medium.com/@crunchyML/matrix-methods-for-solving-systems-of-equations-c2c9965d965f
 
+## Day 16, Matrix multiplication and inversion
+
+Posted at https://medium.com/@crunchyML/matrix-multiplication-and-inversion-43f3922e74da
+
 
 
