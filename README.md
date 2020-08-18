@@ -71,5 +71,9 @@ Posted at https://medium.com/@crunchyML/matrix-methods-for-solving-systems-of-eq
 
 Posted at https://medium.com/@crunchyML/matrix-multiplication-and-inversion-43f3922e74da
 
+## Day 17, Cofactors, Minors, and Laplace’s Theorem
+
+Posted at https://medium.com/@crunchyML/cofactors-minors-and-laplaces-theorem-c3a093544cc1
+
 
 
