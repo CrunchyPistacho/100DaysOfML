@@ -75,5 +75,8 @@ Posted at https://medium.com/@crunchyML/matrix-multiplication-and-inversion-43f3
 
 Posted at https://medium.com/@crunchyML/cofactors-minors-and-laplaces-theorem-c3a093544cc1
 
+## Day 18,  Linear dependence between columns of a matrix
+
+Posted at https://medium.com/@crunchyML/linear-dependence-between-columns-of-a-matrix-79ba3cb1b70c
 
 
