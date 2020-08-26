@@ -80,3 +80,6 @@ Posted at https://medium.com/@crunchyML/cofactors-minors-and-laplaces-theorem-c3
 Posted at https://medium.com/@crunchyML/linear-dependence-between-columns-of-a-matrix-79ba3cb1b70c
 
 
+## Day 19,  Linear spaces, the base of matrices calculations 
+
+Posted at https://medium.com/@crunchyML/linear-spaces-the-base-of-matrices-calculations-d37b66f5d2c3
