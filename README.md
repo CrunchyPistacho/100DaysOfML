@@ -83,3 +83,7 @@ Posted at https://medium.com/@crunchyML/linear-dependence-between-columns-of-a-m
 ## Day 19,  Linear spaces, the base of matrices calculations 
 
 Posted at https://medium.com/@crunchyML/linear-spaces-the-base-of-matrices-calculations-d37b66f5d2c3
+
+## Day 20,  The rank of a matrix
+
+Posted at https://medium.com/@crunchyML/the-rank-of-a-matrix-6bd15233223e
