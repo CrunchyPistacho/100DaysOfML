@@ -87,3 +87,7 @@ Posted at https://medium.com/@crunchyML/linear-spaces-the-base-of-matrices-calcu
 ## Day 20,  The rank of a matrix
 
 Posted at https://medium.com/@crunchyML/the-rank-of-a-matrix-6bd15233223e
+
+## Day 21,  Linear Functions of vector arguments 
+
+Posted at https://medium.com/@crunchyML/linear-functions-of-vector-arguments-784b69037ca3
