@@ -91,3 +91,11 @@ Posted at https://medium.com/@crunchyML/the-rank-of-a-matrix-6bd15233223e
 ## Day 21,  Linear Functions of vector arguments 
 
 Posted at https://medium.com/@crunchyML/linear-functions-of-vector-arguments-784b69037ca3
+
+## Day 22, Range of linear operations, eigenvalues, and eigenvectors
+
+Posted at https://medium.com/@crunchyML/range-of-linear-operations-eigenvalues-and-eigenvectors-65a2668eb508
+
+## Day 23, Functions, the base of Calculus
+
+Posted at https://medium.com/@crunchyML/functions-the-base-of-calculus-5ec37d25b691
