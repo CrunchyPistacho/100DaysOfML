@@ -99,3 +99,7 @@ Posted at https://medium.com/@crunchyML/range-of-linear-operations-eigenvalues-a
 ## Day 23, Functions, the base of Calculus
 
 Posted at https://medium.com/@crunchyML/functions-the-base-of-calculus-5ec37d25b691
+
+## Day 24, Limits, the base of derivates 
+
+Posted at https://medium.com/@crunchyML/limits-the-base-of-derivates-e823b073305f
