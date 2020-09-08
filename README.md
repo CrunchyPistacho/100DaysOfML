@@ -103,3 +103,7 @@ Posted at https://medium.com/@crunchyML/functions-the-base-of-calculus-5ec37d25b
 ## Day 24, Limits, the base of derivates 
 
 Posted at https://medium.com/@crunchyML/limits-the-base-of-derivates-e823b073305f
+
+## Day 25, Continous functions
+
+Posted at https://medium.com/@crunchyML/continuous-functions-cc1f341f1b91
