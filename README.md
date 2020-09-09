@@ -107,3 +107,7 @@ Posted at https://medium.com/@crunchyML/limits-the-base-of-derivates-e823b073305
 ## Day 25, Continous functions
 
 Posted at https://medium.com/@crunchyML/continuous-functions-cc1f341f1b91
+
+## Day 26, Continuous functions, three strong theorems
+
+Posted at https://medium.com/@crunchyML/continuous-functions-three-strong-theorems-feab26bf0627
