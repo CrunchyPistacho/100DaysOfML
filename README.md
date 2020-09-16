@@ -111,3 +111,7 @@ Posted at https://medium.com/@crunchyML/continuous-functions-cc1f341f1b91
 ## Day 26, Continuous functions, three strong theorems
 
 Posted at https://medium.com/@crunchyML/continuous-functions-three-strong-theorems-feab26bf0627
+
+## Day 27, Derivatives
+
+Posted at https://medium.com/@crunchyML/derivatives-fe804cf17412
