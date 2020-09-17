@@ -115,3 +115,7 @@ Posted at https://medium.com/@crunchyML/continuous-functions-three-strong-theore
 ## Day 27, Derivatives
 
 Posted at https://medium.com/@crunchyML/derivatives-fe804cf17412
+
+## Day 28, Differentiation
+
+Posted at https://medium.com/@crunchyML/differentiation-affc3cf43caf
