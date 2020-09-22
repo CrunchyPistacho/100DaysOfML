@@ -119,3 +119,7 @@ Posted at https://medium.com/@crunchyML/derivatives-fe804cf17412
 ## Day 28, Differentiation
 
 Posted at https://medium.com/@crunchyML/differentiation-affc3cf43caf
+
+## Day 29, Significance of the derivative
+
+Posted at https://medium.com/@crunchyML/significance-of-the-derivative-4c1f505e9b88
