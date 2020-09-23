@@ -123,3 +123,7 @@ Posted at https://medium.com/@crunchyML/differentiation-affc3cf43caf
 ## Day 29, Significance of the derivative
 
 Posted at https://medium.com/@crunchyML/significance-of-the-derivative-4c1f505e9b88
+
+## Day 30, Inverse Functions
+
+Posted at https://medium.com/@crunchyML/inverse-functions-edda5240436f
