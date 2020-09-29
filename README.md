@@ -127,3 +127,7 @@ Posted at https://medium.com/@crunchyML/significance-of-the-derivative-4c1f505e9
 ## Day 30, Inverse Functions
 
 Posted at https://medium.com/@crunchyML/inverse-functions-edda5240436f
+
+## Day 31, Integrals 
+
+Posted at https://medium.com/@crunchyML/integrals-d985465627fb
