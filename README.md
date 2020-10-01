@@ -131,3 +131,7 @@ Posted at https://medium.com/@crunchyML/inverse-functions-edda5240436f
 ## Day 31, Integrals 
 
 Posted at https://medium.com/@crunchyML/integrals-d985465627fb
+
+## Day 32, The Fundamental theorem of calculus
+
+Posted at https://medium.com/@crunchyML/the-fundamental-theorem-of-calculus-56dda18d2ac3
