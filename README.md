@@ -135,3 +135,7 @@ Posted at https://medium.com/@crunchyML/integrals-d985465627fb
 ## Day 32, The Fundamental theorem of calculus
 
 Posted at https://medium.com/@crunchyML/the-fundamental-theorem-of-calculus-56dda18d2ac3
+
+## Day 33, Integration in elementary terms
+
+Posted at https://medium.com/@crunchyML/integration-in-elementary-terms-2ad14e464105
