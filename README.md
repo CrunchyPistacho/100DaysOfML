@@ -139,3 +139,8 @@ Posted at https://medium.com/@crunchyML/the-fundamental-theorem-of-calculus-56dd
 ## Day 33, Integration in elementary terms
 
 Posted at https://medium.com/@crunchyML/integration-in-elementary-terms-2ad14e464105
+
+
+## Day 34, Machine learning project checklist
+
+Posted at https://medium.com/@crunchyML/machine-learning-project-checklist-2645770ef027
