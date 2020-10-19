@@ -144,3 +144,7 @@ Posted at https://medium.com/@crunchyML/integration-in-elementary-terms-2ad14e46
 ## Day 34, Machine learning project checklist
 
 Posted at https://medium.com/@crunchyML/machine-learning-project-checklist-2645770ef027
+
+## Day 35, Esplaining least-squares
+
+Posted at https://medium.com/@crunchyML/explaining-least-squares-a911cca0b41
