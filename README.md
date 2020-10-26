@@ -145,6 +145,10 @@ Posted at https://medium.com/@crunchyML/integration-in-elementary-terms-2ad14e46
 
 Posted at https://medium.com/@crunchyML/machine-learning-project-checklist-2645770ef027
 
-## Day 35, Esplaining least-squares
+## Day 35, Explaining least-squares
 
 Posted at https://medium.com/@crunchyML/explaining-least-squares-a911cca0b41
+
+## Day 36, Explaining subset selection and regularization methods for linear-squares
+
+Posted at https://crunchyml.medium.com/explaining-subset-selection-and-regularization-methods-for-linear-squares-d88d1f2f8f95 
