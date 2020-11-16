@@ -152,3 +152,7 @@ Posted at https://medium.com/@crunchyML/explaining-least-squares-a911cca0b41
 ## Day 36, Explaining subset selection and regularization methods for linear-squares
 
 Posted at https://crunchyml.medium.com/explaining-subset-selection-and-regularization-methods-for-linear-squares-d88d1f2f8f95 
+
+## Day 37, Subset selection models applied 
+
+Posted at https://crunchyml.medium.com/subset-selection-models-applied-bf1a6d7d164e
