@@ -160,3 +160,7 @@ Posted at https://crunchyml.medium.com/subset-selection-models-applied-bf1a6d7d1
 ## Day 38, Explaining subset selection and regularization methods for least-squares part-2
 
 Posted at https://crunchyml.medium.com/explaining-subset-selection-and-regularization-methods-for-least-squares-part-2-895bd54ba85e
+
+## Day 39, Explaining subset selection and regularization methods for least-squares part-2
+
+Posted at https://crunchyml.medium.com/the-basic-methods-for-classification-9c10a961b0ee
