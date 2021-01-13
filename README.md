@@ -164,3 +164,7 @@ Posted at https://crunchyml.medium.com/explaining-subset-selection-and-regulariz
 ## Day 39, Explaining subset selection and regularization methods for least-squares part-2
 
 Posted at https://crunchyml.medium.com/the-basic-methods-for-classification-9c10a961b0ee
+
+## Day 40, Separating Hyperplanes for classification
+
+Posted at https://crunchyml.medium.com/separating-hyperplanes-for-classification-52de4a1c5321
