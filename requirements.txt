@@ -3,7 +3,7 @@ astroid==2.4.2
 async-generator==1.10
 attrs==20.2.0
 backcall==0.2.0
-bleach==3.2.1
+bleach==3.3.0
 cffi==1.14.3
 colorama==0.4.3
 cycler==0.10.0
